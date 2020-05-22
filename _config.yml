@@ -101,5 +101,5 @@ theme: fexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
     type: git
-    repo: git@github.com:JCWanghub/JCWanghub.github.io.git
+    repo: https://GH_TOKEN@github.com:JCWanghub/JCWanghub.github.io.git
     branch: master
